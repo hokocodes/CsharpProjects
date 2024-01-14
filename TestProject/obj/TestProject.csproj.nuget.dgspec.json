@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TinaPC\\OneDrive\\Documents\\GitHub\\CsharpProjects\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\hokop\\OneDrive\\Documents\\GitHub\\CsharpProjects\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TinaPC\\OneDrive\\Documents\\GitHub\\CsharpProjects\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\hokop\\OneDrive\\Documents\\GitHub\\CsharpProjects\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TinaPC\\OneDrive\\Documents\\GitHub\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\hokop\\OneDrive\\Documents\\GitHub\\CsharpProjects\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\TinaPC\\OneDrive\\Documents\\GitHub\\CsharpProjects\\TestProject\\TestProject.csproj",
-        "packagesPath": "C:\\Users\\TinaPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TinaPC\\OneDrive\\Documents\\GitHub\\CsharpProjects\\TestProject\\obj\\",
+        "projectPath": "C:\\Users\\hokop\\OneDrive\\Documents\\GitHub\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "packagesPath": "C:\\Users\\hokop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hokop\\OneDrive\\Documents\\GitHub\\CsharpProjects\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\TinaPC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\hokop\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
